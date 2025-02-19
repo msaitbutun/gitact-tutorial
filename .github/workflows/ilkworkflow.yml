@@ -16,6 +16,6 @@ jobs:
             - name: Checkout
               uses: actions/checkout@v2
             - name: Hello Worl
-              run:
+              run: |
                 echo "ananiskm"
                 printenv
