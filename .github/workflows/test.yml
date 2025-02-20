@@ -14,5 +14,5 @@ jobs:
            uses: actions/checkout@v4
          - name: Enviromentleri listele
            run: printenv
-           #yeni komit isledi mi bak bakim
+           #yeni komit isledi mi bak baki
     
