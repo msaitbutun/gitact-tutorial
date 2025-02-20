@@ -11,7 +11,7 @@ jobs:
 
         steps:
          - name: Checkout İslemi
-           uses: actions/check-out@v4 
+           uses: actions/checkout@v4
          - name: Enviromentleri listele
            run: printenv
     
